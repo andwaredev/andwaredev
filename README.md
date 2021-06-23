@@ -6,7 +6,7 @@ _It's a long story, but if you're looking for my _old_ GitHub account, you can f
 - [Slalom Build](https://www.slalombuild.com/)
 
 #### 🙇‍♂️ Currently Working On:
-- [My Personal Site](https://andrewware.xyz)
+- [My Personal Site](https://github.com/andwaredev/andwaredev.github.io/projects/1)
 
 #### 🛵 Previously Worked At:
 - [128 Technology](https://www.128technology.com/)
