@@ -3,12 +3,10 @@
 _It's a long story, but if you're looking for my _old_ GitHub account, you can find that [here](https://github.com/andwaredev-zz)._
 
 #### 👨‍💻 Currently Working At:
-- [Slalom Build](https://www.slalombuild.com/)
-
-#### 🙇‍♂️ Currently Working On:
-- [My Personal Site](https://github.com/andwaredev/andwaredev.github.io/projects/1)
+- [Guild Education](https://www.guildeducation.com/)
 
 #### 🛵 Previously Worked At:
+- [Slalom Build](https://www.slalombuild.com/)
 - [128 Technology](https://www.128technology.com/)
 - [Rapid Development Group](https://www.rapiddg.com/)
 - [EBSCO Information Services](https://www.ebsco.com/)
